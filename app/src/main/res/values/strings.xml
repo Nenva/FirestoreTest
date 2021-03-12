@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirestoreTest</string>
+    <string name="names">Nombres</string>
+    <string name="lastnames">Apellidos</string>
+    <string name="email">Correo electrónico</string>
+    <string name="phone_number">Teléfono</string>
+    <string name="register_user">Registrar usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Ingresar</string>
+    <string name="text_register_user">¿Quieres crear una cuenta? Click aquí</string>
+    <string name="fill_all_fields">Por favor, llene todos los campos</string>
+
+</resources>
